@@ -1058,11 +1058,11 @@ a:hover {
 ======================================*/
 
 .footer-paralax {
-  padding: 4rem 0 0 0;
+  padding: 1rem 0 0 0;
 }
 
 .contact-mf {
-  margin-top: 4rem;
+  margin-top: 1rem;
 }
 
 /*======================================
@@ -1072,7 +1072,7 @@ a:hover {
 footer {
   text-align: center;
   color: #fff;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
 }
 
 footer .copyright {
@@ -1265,7 +1265,7 @@ footer .credits a {
 }
 
 
-/* CSS STYLES FROM OTHER TEMPLATE ****************************************************
+/* CSS STYLES FROM OTHER TEMPLATE *************************************************
 --------------------------------------------------------------- */
 .row {
    width: 96%;
