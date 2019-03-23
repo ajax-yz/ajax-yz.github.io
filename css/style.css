@@ -1264,7 +1264,8 @@ footer .credits a {
   }
 }
 
-/* default
+
+/* CSS STYLES FROM OTHER TEMPLATE ****************************************************
 --------------------------------------------------------------- */
 .row {
    width: 96%;
@@ -1503,7 +1504,7 @@ properly.
 .title {
   margin-top: 50px;
   font-family: Arial;
-font-size: 24px;
+  font-size: 24px;
   color: #fff;
 }
 
