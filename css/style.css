@@ -1291,7 +1291,7 @@ footer .credits a {
 
 .column, .columns {
    position: relative;
-   padding: 0 20px;
+   padding: 0 0px;
    min-height: 1px;
    float: left;
 }
@@ -1493,7 +1493,8 @@ properly.
 }
 
 /*======================================
-//--//-->   Download Resume
+//--//-->
+ Resume
 ======================================*/
 .downloadResume {
   margin: 0px auto;
